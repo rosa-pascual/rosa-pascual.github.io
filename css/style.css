@@ -181,7 +181,7 @@ h2 {
   position: relative;
   width: 100%;
   min-height: 490px;
-  background-color: #66b5a366; }
+  background-color: #F5E697; }
   @media (min-width: 768px) {
     .container-info {
       float: left;
@@ -237,7 +237,7 @@ h2 {
   margin: 10px auto auto auto;
   padding: 0 20px;
   max-width: 460px;
-  color: #6b4c6fdb;
+  color: #7990A8;
   font-size: 22px;
   text-align: center; }
   @media (min-width: 420px) {
@@ -250,8 +250,8 @@ h2 {
       font-size: 40px; } }
 .info__elevator-link {
   padding: 0 4px 2px 4px;
-  color:#6b4c6fdb;
-  border-bottom: 2px solid #efd734;
+  color:#7990A8;
+  border-bottom: 2px solid #8758A8;
   text-decoration: none;
   word-wrap: break-word;
   white-space: initial;
@@ -281,9 +281,9 @@ h2 {
     .info__button, .info__button--dark {
       margin: 40px auto auto auto; } }
   .info__button--dark {
-    color: #6b4c6f;
-    background: #efd7348f;
-    border-color: #efd734; }
+    color: #8758A8;
+    background: #eee;
+    border-color: #8758A8; }
     .info__button--dark:hover {
       color: #06721e;
       background-color: white; }

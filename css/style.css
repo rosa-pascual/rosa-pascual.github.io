@@ -276,7 +276,7 @@ h2 {
   text-decoration: none; }
   .info__button:hover, .info__button--dark:hover {
     color: white;
-    background-color: #fb154a; }
+    background-color: #eee; }
   @media (min-width: 768px) {
     .info__button, .info__button--dark {
       margin: 40px auto auto auto; } }
@@ -403,11 +403,11 @@ h2 {
       max-width: 500px; } }
   .main__copy a {
     padding: 0 4px 2px 4px;
-    border-bottom: 2px solid #EB7302;
+    border-bottom: 2px solid ##8758A8;
     font-weight: 400;
     transition: background-color 0.3s, border-color 0.3s; }
     .main__copy a:hover {
-      background-color: #974e084a;
+      background-color: #eee;
       border-color: #EB7302; }
 .main__project, .main__project--first {
   margin-bottom: 20px;

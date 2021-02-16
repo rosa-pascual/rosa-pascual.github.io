@@ -225,7 +225,7 @@ h2 {
   width: 170px;
   height: 170px;
   border-radius: 250px;
-  box-shadow: 0 5px 10px #002F0A; }
+  box-shadow: 0 5px 10px #402a50; }
 .info__tag {
   display: block;
   margin: 30px auto auto auto;
@@ -257,8 +257,8 @@ h2 {
   white-space: initial;
   transition: background-color 0.3s, border-color 0.3s; }
   .info__elevator-link:hover {
-    background-color: #974e08ab;
-    border-color: #EB7302; }
+    background-color: #8758a82b;
+    border-color: #8758A8; }
 .info__button, .info__button--dark {
   display: block;
   position: relative;
@@ -285,8 +285,8 @@ h2 {
     background: #eee;
     border-color: #8758A8; }
     .info__button--dark:hover {
-      color: #06721e;
-      background-color: white; }
+      color:#8758A8;
+      background-color: #8758a82b; }
     @media (min-width: 768px) {
       .info__button--dark {
         margin: 40px auto auto auto; } }
@@ -403,12 +403,12 @@ h2 {
       max-width: 500px; } }
   .main__copy a {
     padding: 0 4px 2px 4px;
-    border-bottom: 2px solid ##8758A8;
+    border-bottom: 2px solid #8758A8;
     font-weight: 400;
     transition: background-color 0.3s, border-color 0.3s; }
     .main__copy a:hover {
-      background-color: #eee;
-      border-color: #EB7302; }
+      background-color: #8758a82b;
+      border-color: #8758A8; }
 .main__project, .main__project--first {
   margin-bottom: 20px;
   width: 75%; }

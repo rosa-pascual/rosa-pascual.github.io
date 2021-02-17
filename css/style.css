@@ -282,11 +282,11 @@ h2 {
       margin: 40px auto auto auto; } }
   .info__button--dark {
     color: #8758A8;
-    background: #eee;
+    background: #8758a82b;
     border-color: #8758A8; }
     .info__button--dark:hover {
       color:#8758A8;
-      background-color: #8758a82b; }
+      background-color: #eee; }
     @media (min-width: 768px) {
       .info__button--dark {
         margin: 40px auto auto auto; } }

@@ -281,9 +281,9 @@ h2 {
     .info__button, .info__button--dark {
       margin: 40px auto auto auto; } }
   .info__button--dark {
-    color: #8758A8;
-    background: #8758a82b;
-    border-color: #8758A8; }
+    color: #7990A8;
+    background: #8758a82e;
+    border-color: #F5E697; }
     .info__button--dark:hover {
       color:#8758A8;
       background-color: #eee; }

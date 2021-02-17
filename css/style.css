@@ -320,12 +320,12 @@ h2 {
     float: right;
     margin-left: 10px;
     padding-top: 4px;
-    color: white;
+    color:#7990A8;
     text-decoration: none;
     float: right;
     transition: 0.3s color ease; }
     .info-footer__social-icon:hover, .info-footer__social-icon--dribbble:hover, .info-footer__social-icon--linkedin:hover, .info-footer__social-icon--instagram:hover, .info-footer__social-icon--github:hover, .info-footer__social-icon--twitter:hover {
-      color: #974e08; }
+      color: #8758A8; }
     .info-footer__social-icon--dribbble {
       animation-delay: 1.2s; }
       @media (max-width: 768px) {
